@@ -2,7 +2,7 @@ title: "Kartik Kannapur"
 author: "Kartik Kannapur"
 description: "Welcome to my corner of the Internet"
 more: "read more »"
-url: "localhost"
+url: "kartikkannapur.github.io" # the base hostname & protocol for your site
 baseurl: ""
 paginate: 2
 permalink: pretty
@@ -16,6 +16,9 @@ navigation:
   - index.html
   - archive.html
   - about.md
+  - learning.md
+
+disqus: KartikKannapur
 
 comments:
   disqus: "disqus-contrast"

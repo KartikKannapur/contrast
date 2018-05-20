@@ -1,88 +1,145 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-05-20T11:57:36-04:00</updated><id>http://localhost:4000/</id><title type="html">Kartik Kannapur</title><subtitle>Welcome to my corner of the Internet</subtitle><author><name>Kartik Kannapur</name></author><entry><title type="html">Example Text</title><link href="http://localhost:4000/text/2017/02/17/example-text/" rel="alternate" type="text/html" title="Example Text" /><published>2017-02-17T18:37:00-05:00</published><updated>2017-02-17T18:37:00-05:00</updated><id>http://localhost:4000/text/2017/02/17/example-text</id><content type="html" xml:base="http://localhost:4000/text/2017/02/17/example-text/">&lt;p&gt;Lorem &lt;strong&gt;ipsum dolor&lt;/strong&gt; sit amet, consectetur adipiscing elit, &lt;code class=&quot;highlighter-rouge&quot;&gt;sed do eiusmod tempor&lt;/code&gt; incididunt ut &lt;em&gt;labore&lt;/em&gt; et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud &lt;strong&gt;&lt;em&gt;exercitation&lt;/em&gt;&lt;/strong&gt; ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute &lt;em&gt;irure dolor&lt;/em&gt; in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&lt;/p&gt;
-
-&lt;p&gt;The term was coined in 1964 by two &lt;a href=&quot;https://en.wikipedia.org/wiki/Australia&quot;&gt;Australian&lt;/a&gt; &lt;a href=&quot;https://en.wikipedia.org/wiki/CSIRO&quot;&gt;CSIRO&lt;/a&gt; researchers, Isabel Joy Bear and Richard G. Thomas, for an article in the journal &lt;a href=&quot;https://en.wikipedia.org/wiki/Nature_(journal)&quot;&gt;Nature&lt;/a&gt;. In the article, the authors describe how the smell derives from an oil exuded by certain &lt;a href=&quot;https://en.wikipedia.org/wiki/Plants&quot;&gt;plants&lt;/a&gt; during dry periods, whereupon it is &lt;a href=&quot;https://en.wikipedia.org/wiki/Absorption_(chemistry)&quot;&gt;absorbed&lt;/a&gt; by &lt;a href=&quot;https://en.wikipedia.org/wiki/Clay&quot;&gt;clay&lt;/a&gt;-based &lt;a href=&quot;https://en.wikipedia.org/wiki/Soil&quot;&gt;soils&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Rock_(geology)&quot;&gt;rocks&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Some scientists believe that humans appreciate the rain scent because ancestors may have relied on rainy weather for survival.&lt;/p&gt;
-
-&lt;h3 id=&quot;lists&quot;&gt;Lists&lt;/h3&gt;
-
-&lt;h4 id=&quot;unordered&quot;&gt;Unordered&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;lorem&lt;/li&gt;
-  &lt;li&gt;ipsum&lt;/li&gt;
-  &lt;li&gt;dolor&lt;/li&gt;
-  &lt;li&gt;sit amet&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;ordered&quot;&gt;Ordered&lt;/h4&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;lorem&lt;/li&gt;
-  &lt;li&gt;ipsum&lt;/li&gt;
-  &lt;li&gt;dolor&lt;/li&gt;
-  &lt;li&gt;sit amet&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Kartik Kannapur</name></author><summary type="html">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. The term was coined in 1964 by two Australian CSIRO researchers, Isabel Joy Bear and Richard G. Thomas, for an article in the journal Nature. In the article, the authors describe how the smell derives from an oil exuded by certain plants during dry periods, whereupon it is absorbed by clay-based soils and rocks.</summary></entry><entry><title type="html">Example Objects</title><link href="http://localhost:4000/objects/2017/02/01/example-objects/" rel="alternate" type="text/html" title="Example Objects" /><published>2017-02-01T17:30:00-05:00</published><updated>2017-02-01T17:30:00-05:00</updated><id>http://localhost:4000/objects/2017/02/01/example-objects</id><content type="html" xml:base="http://localhost:4000/objects/2017/02/01/example-objects/">&lt;h3 id=&quot;code&quot;&gt;Code&lt;/h3&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-c&quot; data-lang=&quot;c&quot;&gt;&lt;span class=&quot;k&quot;&gt;static&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;asyncEnabled&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Dict&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;args&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;vAdmin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;String&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;txid&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;struct&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Allocator&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;requestAlloc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;struct&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Admin&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;admin&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Identity_check&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;((&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;struct&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Admin&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;vAdmin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-    &lt;span class=&quot;kt&quot;&gt;int64_t&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;enabled&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;admin&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;asyncEnabled&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;Dict&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;d&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Dict_CONST&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;String_CONST&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;asyncEnabled&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Int_OBJ&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;enabled&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;NULL&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;Admin_sendMessage&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;d&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;txid&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;admin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;h3 id=&quot;quote&quot;&gt;Quote&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-05-20T12:42:39-04:00</updated><id>http://localhost:4000/</id><title type="html">Kartik Kannapur</title><subtitle>Welcome to my corner of the Internet</subtitle><author><name>Kartik Kannapur</name></author><entry><title type="html">A Gentle Introduction to Elasticsearch</title><link href="http://localhost:4000/2016/06/26/introduction-to-elasticsearch/" rel="alternate" type="text/html" title="A Gentle Introduction to Elasticsearch" /><published>2016-06-26T16:30:00-04:00</published><updated>2016-06-26T16:30:00-04:00</updated><id>http://localhost:4000/2016/06/26/introduction-to-elasticsearch</id><content type="html" xml:base="http://localhost:4000/2016/06/26/introduction-to-elasticsearch/">&lt;p&gt;&lt;strong&gt;What is Indexing and why do we need it?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;They who can give up essential liberty to obtain a little temporary safety, deserve neither liberty nor safety.&lt;/p&gt;
-
-  &lt;p&gt;&lt;em&gt;Benjamin Franklin&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;Data is stored on disk as blocks of data. These blocks are accessed in their entirety, making them atomic reads and writes. The structure of these blocks of data is similar to that of a linked list - that contains a block of data and a pointer to the next data block. To find a piece of information, we would have to linearly search through the data which would be expensive, given that it is unsorted.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&quot;table&quot;&gt;Table&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Indexing is the process of tagging or associating information with a document or a file, so that the process of search and retrieval could be faster. Therefore, creating an index on the data would significantly speed up the process of search and retrieval.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;First Header&lt;/th&gt;
-      &lt;th&gt;Second Header&lt;/th&gt;
-      &lt;th&gt;Third Header&lt;/th&gt;
-      &lt;th&gt;Fourth Header&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;First Entry&lt;/td&gt;
-      &lt;td&gt;Second Entry&lt;/td&gt;
-      &lt;td&gt;Third Entry&lt;/td&gt;
-      &lt;td&gt;Fourth Entry&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Fifth Entry&lt;/td&gt;
-      &lt;td&gt;Sixth Entry&lt;/td&gt;
-      &lt;td&gt;Seventh Entry&lt;/td&gt;
-      &lt;td&gt;Eight Entry&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Ninth Entry&lt;/td&gt;
-      &lt;td&gt;Tenth Entry&lt;/td&gt;
-      &lt;td&gt;Eleventh Entry&lt;/td&gt;
-      &lt;td&gt;Twelfth Entry&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Elasticsearch&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;image&quot;&gt;Image&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Elasticsearch is an open-source, distributed search and analytics engine, built on top of Apache Lucene. It is able to achieve fast search responses because, it searches an index rather than searching the text directly. This is similar to retrieving pages in a book related to a keyword, by scanning the index at the back of a book, as opposed to searching every word on every page of the book. This type of index is called an Inverted Index.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Photography_by_Victor_Albert_Grigas_%281919-2017%29_000172050002_%2837159721864%29.jpg/1039px-Photography_by_Victor_Albert_Grigas_%281919-2017%29_000172050002_%2837159721864%29.jpg&quot; alt=&quot;subtle swirly bokeh in the background&quot; /&gt;&lt;/p&gt;</content><author><name>Kartik Kannapur</name></author><summary type="html">Code static void asyncEnabled(Dict* args, void* vAdmin, String* txid, struct Allocator* requestAlloc) { struct Admin* admin = Identity_check((struct Admin*) vAdmin); int64_t enabled = admin-&amp;gt;asyncEnabled; Dict d = Dict_CONST(String_CONST(&quot;asyncEnabled&quot;), Int_OBJ(enabled), NULL); Admin_sendMessage(&amp;amp;d, txid, admin); }</summary></entry><entry><title type="html">Lorem ipsum dolor sit amet consectetur adipiscing elit</title><link href="http://localhost:4000/text/2017/01/17/example-text/" rel="alternate" type="text/html" title="Lorem ipsum dolor sit amet consectetur adipiscing elit" /><published>2017-01-17T18:37:00-05:00</published><updated>2017-01-17T18:37:00-05:00</updated><id>http://localhost:4000/text/2017/01/17/example-text</id><content type="html" xml:base="http://localhost:4000/text/2017/01/17/example-text/">&lt;p&gt;Lorem &lt;strong&gt;ipsum dolor&lt;/strong&gt; sit amet, consectetur adipiscing elit, &lt;code class=&quot;highlighter-rouge&quot;&gt;sed do eiusmod tempor&lt;/code&gt; incididunt ut &lt;em&gt;labore&lt;/em&gt; et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud &lt;strong&gt;&lt;em&gt;exercitation&lt;/em&gt;&lt;/strong&gt; ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute &lt;em&gt;irure dolor&lt;/em&gt; in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Apache Lucene is a high-performance full-text search and information retrieval library. Although it is one of the most robust search libraries, it needs the support of a programming language such as Java or Python, to be integrated into an application. Elasticsearch hides this complexity by providing a convenient RESTful API to interact with the data.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;The term was coined in 1964 by two &lt;a href=&quot;https://en.wikipedia.org/wiki/Australia&quot;&gt;Australian&lt;/a&gt; &lt;a href=&quot;https://en.wikipedia.org/wiki/CSIRO&quot;&gt;CSIRO&lt;/a&gt; researchers, Isabel Joy Bear and Richard G. Thomas, for an article in the journal &lt;a href=&quot;https://en.wikipedia.org/wiki/Nature_(journal)&quot;&gt;Nature&lt;/a&gt;. In the article, the authors describe how the smell derives from an oil exuded by certain &lt;a href=&quot;https://en.wikipedia.org/wiki/Plants&quot;&gt;plants&lt;/a&gt; during dry periods, whereupon it is &lt;a href=&quot;https://en.wikipedia.org/wiki/Absorption_(chemistry)&quot;&gt;absorbed&lt;/a&gt; by &lt;a href=&quot;https://en.wikipedia.org/wiki/Clay&quot;&gt;clay&lt;/a&gt;-based &lt;a href=&quot;https://en.wikipedia.org/wiki/Soil&quot;&gt;soils&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Rock_(geology)&quot;&gt;rocks&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Terms in Elasticsearch&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Some scientists believe that humans appreciate the rain scent because ancestors may have relied on rainy weather for survival.&lt;/p&gt;</content><author><name>Kartik Kannapur</name></author><summary type="html">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. The term was coined in 1964 by two Australian CSIRO researchers, Isabel Joy Bear and Richard G. Thomas, for an article in the journal Nature. In the article, the authors describe how the smell derives from an oil exuded by certain plants during dry periods, whereupon it is absorbed by clay-based soils and rocks.</summary></entry><entry><title type="html">Pagination works</title><link href="http://localhost:4000/2016/12/31/pagination-works/" rel="alternate" type="text/html" title="Pagination works" /><published>2016-12-31T19:30:00-05:00</published><updated>2016-12-31T19:30:00-05:00</updated><id>http://localhost:4000/2016/12/31/pagination-works</id><content type="html" xml:base="http://localhost:4000/2016/12/31/pagination-works/">&lt;blockquote&gt;
-  &lt;p&gt;Pagination is the process of dividing a document into discrete pages, either electronic pages or printed pages.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Node : An instance that is running Elasticsearch.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Cluster : A cluster consists of two or more nodes. Each cluster has a single master node, which is automatically elected by the cluster and multiple slave nodes. A new master is automatically elected in case of failure.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-  &lt;p&gt;In reference to books produced without a computer, pagination can mean the consecutive page numbering to indicate the proper order of the pages, which was rarely found in documents pre-dating 1500, and only became common practice c. 1550, when it replaced foliation, which numbered only the front sides of folios.&lt;/p&gt;
+&lt;p&gt;To draw an analogy between Elasticsearch and RDBMS&lt;/p&gt;
 
-  &lt;p&gt;- &lt;a href=&quot;https://en.wikipedia.org/wiki/Pagination&quot;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>Kartik Kannapur</name></author><summary type="html">Pagination is the process of dividing a document into discrete pages, either electronic pages or printed pages. In reference to books produced without a computer, pagination can mean the consecutive page numbering to indicate the proper order of the pages, which was rarely found in documents pre-dating 1500, and only became common practice c. 1550, when it replaced foliation, which numbered only the front sides of folios. - Wikipedia</summary></entry></feed>
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;RDBMS =&amp;gt; Database =&amp;gt; Table =&amp;gt; Rows &amp;amp; Columns
+
+ElasticSearch =&amp;gt; Index =&amp;gt; Type =&amp;gt; Documents &amp;amp; Properties
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Index : The index is the heart of Elasticsearch. Each index contains one or more types and is a logical namespace which maps to one or more primary shards.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Type : Each type contains a list of documents. A mapping in the type defines how each field in the document is analyzed.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Document : A document in Elasticsearch is a JSON document consisting of key-value pairs. Each document has a type and is stored in an index, and  can be uniquely identified by an id.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Field : Fields are the key-value pairs present in the document. The values can either be a scalar such as a string, integer, date or a nested JSON structure with sub key-value pairs.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Shard : A shard is a low-level worker unit which is managed by Elasticsearch. Elasticsearch distributes these shards amongst all nodes in the cluster and can move shards from one node to another in the case of node failure or the addition of new nodes. 
+ There are two types of Shards - Primary &amp;amp; Replica Shards. 
+ Primary Shard : When a document is indexed it is first stored on the primary shard, then on all replicas of the primary shard. By default, an index has 5 primary shards, but this can be scaled to fewer or more primary shards depending on the application. 
+ Replica Shard : Each primary shard can have zero or more replicas. A replica is a copy of the primary shard, and has two purposes: 1) increase failover: a replica shard can be promoted to a primary shard if the primary fails. 2) increase performance: get and search requests can be handled by primary or replica shards.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;ELK Stack&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The Elastic Stack is an end-to-end solution for log management, indexing and visualization of data. The ELK Stack consists of Elasticsearch, Logstash and Kibana, three independent open source projects that can ingest data from any source, any format and search, analyze, and visualize it in real time.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Logstash is a pipeline for ingestion and processing of logs. It can handle a variety of logs such as - system logs, web server logs, application logs etc. Data from multiple sources can be normalized via Logstash, rather than the traditional ETL(Extract - Transform - Load) approach, indexed using Elasticsearch and visualized using Kibana as a dashboard.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Elasticsearch - Hadoop&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Elasticsearch for Apache Hadoop (ES-Hadoop) acts as a two-way connector, that connects the real-time search and analytics capability of Elasticsearch to the Hadoop ecosystem. With this native integration, ES-Hadoop allows for seamlessly moving data between Elasticsearch and HDFS. ES-Hadoop ships with security features such as HTTP authentication and support for SSL/TLS. It also works with Kibana for data visualization.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Resources to get started&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Elastic - https://www.elastic.co/&lt;/li&gt;
+  &lt;li&gt;Elasticsearch: The Definitive Guide Book - https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html&lt;/li&gt;
+  &lt;li&gt;Elasticsearch API List - http://elasticsearch-api.info/&lt;/li&gt;
+  &lt;li&gt;Kibana - https://www.elastic.co/products/kibana&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Kartik Kannapur</name></author><summary type="html">What is Indexing and why do we need it? Data is stored on disk as blocks of data. These blocks are accessed in their entirety, making them atomic reads and writes. The structure of these blocks of data is similar to that of a linked list - that contains a block of data and a pointer to the next data block. To find a piece of information, we would have to linearly search through the data which would be expensive, given that it is unsorted. Indexing is the process of tagging or associating information with a document or a file, so that the process of search and retrieval could be faster. Therefore, creating an index on the data would significantly speed up the process of search and retrieval.</summary></entry><entry><title type="html">Competitive Programming</title><link href="http://localhost:4000/2016/05/10/competitive-programming/" rel="alternate" type="text/html" title="Competitive Programming" /><published>2016-05-10T19:00:00-04:00</published><updated>2016-05-10T19:00:00-04:00</updated><id>http://localhost:4000/2016/05/10/competitive-programming</id><content type="html" xml:base="http://localhost:4000/2016/05/10/competitive-programming/">&lt;blockquote&gt;
+  &lt;p&gt;Wikipedia defines Competitive Programming as a ‘Mind Sport’.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Competitive programming revolves around the fundamental idea of hundreds of programmers trying to solve a set of problems, in a given amount of time. The problems themselves involve solving sets of mathematical and algorithmic questions in any programming language. Although the major criteria for judging is the correctness of the answer, some competitions also take into account the performance and elegance of the code written. The duration of these competitions can range from a couple of hours to weeks, sometimes even months and programmers who crack the challenging set of questions, are rewarded with(in order of importance)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Bragging rights&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;Goodies/Swags/Monetary benefits and in some cases job offers as well
+My journey with competitive programming began only a few months back and by no means do I consider myself a virtuoso, but here are a couple of reasons why I believe you must get started with competitive programming:&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Challenge Yourself&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;In your day job or at your university, you could listen to your favorite song on Spotify and think about the solution to a problem at your own pace and code it line by line. No sweat. But, in a competitive programming scenario, you are pushing yourself - not only are your trying to come up with an algorithm to solve the question and code it in your language of choice, but you are also trying to create the most performance oriented solution, and all this with the timer counting down.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Knowledge&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;More often than not in a competitive programming competition, you realize that there could be a better way to solve the problem - an easier, more elegant solution. This helps you pick up new concepts and put them into practice so that you are constantly learning.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;h3 id=&quot;list-of-competitive-programming-websites&quot;&gt;List of Competitive Programming Websites:&lt;/h3&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Topcoder&lt;/li&gt;
+  &lt;li&gt;HackerRank&lt;/li&gt;
+  &lt;li&gt;Codechef&lt;/li&gt;
+  &lt;li&gt;HackerEarth&lt;/li&gt;
+  &lt;li&gt;Google Code Jam&lt;/li&gt;
+  &lt;li&gt;Kaggle - Competitive Data Science&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I started with the challenge - “Intro to Statistics” on HackerRank, where I completed the challenge in the top 15% and then moved on to “Simply SQL”, where I ended up in the top 25%. I have attached a link to the Jupyter Notebooks below:&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Intro to Statistics - &lt;a href=&quot;http://nbviewer.jupyter.org/github/KartikKannapur/Programming_Challenges/tree/master/HackerRank/Intro_to_Statistics/&quot;&gt;Jupyter Notebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Simply SQL - &lt;a href=&quot;http://nbviewer.jupyter.org/github/KartikKannapur/Programming_Challenges/blob/master/HackerRank/Simply_SQL_The_Sequel/Questions.ipynb&quot;&gt;Jupyter Notebook&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;</content><author><name>Kartik Kannapur</name></author><summary type="html">Wikipedia defines Competitive Programming as a ‘Mind Sport’. Competitive programming revolves around the fundamental idea of hundreds of programmers trying to solve a set of problems, in a given amount of time. The problems themselves involve solving sets of mathematical and algorithmic questions in any programming language. Although the major criteria for judging is the correctness of the answer, some competitions also take into account the performance and elegance of the code written. The duration of these competitions can range from a couple of hours to weeks, sometimes even months and programmers who crack the challenging set of questions, are rewarded with(in order of importance) Bragging rights Goodies/Swags/Monetary benefits and in some cases job offers as well My journey with competitive programming began only a few months back and by no means do I consider myself a virtuoso, but here are a couple of reasons why I believe you must get started with competitive programming: Challenge Yourself In your day job or at your university, you could listen to your favorite song on Spotify and think about the solution to a problem at your own pace and code it line by line. No sweat. But, in a competitive programming scenario, you are pushing yourself - not only are your trying to come up with an algorithm to solve the question and code it in your language of choice, but you are also trying to create the most performance oriented solution, and all this with the timer counting down. Knowledge More often than not in a competitive programming competition, you realize that there could be a better way to solve the problem - an easier, more elegant solution. This helps you pick up new concepts and put them into practice so that you are constantly learning. List of Competitive Programming Websites: Topcoder HackerRank Codechef HackerEarth Google Code Jam Kaggle - Competitive Data Science I started with the challenge - “Intro to Statistics” on HackerRank, where I completed the challenge in the top 15% and then moved on to “Simply SQL”, where I ended up in the top 25%. I have attached a link to the Jupyter Notebooks below: Intro to Statistics - Jupyter Notebook Simply SQL - Jupyter Notebook</summary></entry><entry><title type="html">Practical Data Science Cookbook</title><link href="http://localhost:4000/2015/02/24/practical-data-science-cookbook/" rel="alternate" type="text/html" title="Practical Data Science Cookbook" /><published>2015-02-24T14:30:00-05:00</published><updated>2015-02-24T14:30:00-05:00</updated><id>http://localhost:4000/2015/02/24/practical-data-science-cookbook</id><content type="html" xml:base="http://localhost:4000/2015/02/24/practical-data-science-cookbook/">&lt;blockquote&gt;
+  &lt;p&gt;The Practical Data Science Cookbook, authored by Tony Ojeda, Sean Patrick Murphy, Benjamin Bengfort and Abhijit Dasgupta is an amazing resource for every aspiring data scientist. If you are inclined to understand concepts through hands-on, real world examples, this cookbook is the ideal partner for you.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The authors of the book have followed a methodical approach, to guide the reader through the entire data science pipeline - from acquiring and preparing the dataset to building statistical models to solve problem statements. The book contains eleven chapters, each of which is a data science project in itself. Furthermore, the authors have broken down each project into smaller, solvable problem statements and build it up from there. The cookbook also covers a variety of domains such as - automobile, sports, stock market etc. which gives the reader a great deal of exposure, to apply the concepts he has learnt in different verticals.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The book requires prior knowledge of Python and R, both of which are invaluable for every data scientist and are easy to learn. In addition the recipes in the book, also use a plethora of open source libraries and data sets, which the reader can get acquainted with.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.packtpub.com/sites/default/files/9781783980246.png&quot; alt=&quot;practical-data-science-cookbook&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;To purchase a copy of the book, visit &lt;a href=&quot;https://www.packtpub.com/big-data-and-business-intelligence/practical-data-science-cookbook&quot;&gt;Packt Publishing&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>Kartik Kannapur</name></author><summary type="html">The Practical Data Science Cookbook, authored by Tony Ojeda, Sean Patrick Murphy, Benjamin Bengfort and Abhijit Dasgupta is an amazing resource for every aspiring data scientist. If you are inclined to understand concepts through hands-on, real world examples, this cookbook is the ideal partner for you. The authors of the book have followed a methodical approach, to guide the reader through the entire data science pipeline - from acquiring and preparing the dataset to building statistical models to solve problem statements. The book contains eleven chapters, each of which is a data science project in itself. Furthermore, the authors have broken down each project into smaller, solvable problem statements and build it up from there. The cookbook also covers a variety of domains such as - automobile, sports, stock market etc. which gives the reader a great deal of exposure, to apply the concepts he has learnt in different verticals. The book requires prior knowledge of Python and R, both of which are invaluable for every data scientist and are easy to learn. In addition the recipes in the book, also use a plethora of open source libraries and data sets, which the reader can get acquainted with.</summary></entry></feed>
