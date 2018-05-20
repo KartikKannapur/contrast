@@ -1,9 +1,9 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Really cool blog about ... something"
+title: "Kartik Kannapur"
+author: "Kartik Kannapur"
+description: "Welcome to my corner of the Internet"
 more: "read more »"
-url: "https://niklasbuschmann.github.io/"
-baseurl: "/contrast"
+url: "localhost"
+baseurl: ""
 paginate: 2
 permalink: pretty
 excerpt_separator: "\n\n\n" # two blank lines
@@ -22,9 +22,10 @@ comments:
 #  isso: "comments.mysite.org"
 
 links: # see http://fontawesome.io/icons/#brand for all possible icons
-  - twitter: "https://twitter.com/twitter/"
-  - github: "https://github.com/niklasbuschmann/contrast"
-  - envelope: "mailto:niklas.buschmann@posteo.de"
+  - linkedin: "https://www.linkedin.com/in/kartikkannapur/"
+  - github: "https://github.com/KartikKannapur"
+  - twitter: "https://twitter.com/KartikKannapur"
+  - envelope: "mailto:kartikkannapur@gmail.com"
 
 defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
 sass: {style: expanded}
